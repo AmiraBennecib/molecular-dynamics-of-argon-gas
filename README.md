@@ -34,8 +34,17 @@ All quantities are expressed in **LJ reduced units** (ε=1, σ=1, m=1).
 
 - `argon-md.ipynb` — main simulation notebook 
 
+## Implementation of Lab Problem 12
 
+This code is my own implementation of the **Maxwell Distribution** simulation from:
 
-## References
+**Lectures on Computational Physics**  
+Badis Ydri, Adel Bouchareb, Rafik Chemam  
+Physics Department, Badji Mokhtar University, Annaba, Algeria  
+May 21, 2013
 
-- 
+**Lab Problem 12: Maxwell Distribution** (Section 7.5)
+
+### Reference
+- PDF: https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://homepages.dias.ie/ydri/COMPUTATIONALNOTES_FINAL.pdf&ved=2ahUKEwjdy8nwwKeVAxU8_7sIHV6vAPkQFnoECCMQAQ&usg=AOvVaw0QRLmbd2vD_wpaqQDxUDU1
+- Original authors: Badis Ydri et al.
